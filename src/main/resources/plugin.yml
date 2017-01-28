@@ -1,0 +1,5 @@
+name: Fe26
+author: Proximyst
+description: 'A currency plugin for everyday use.'
+main: com.proximyst.fe26.Fe26
+version: '${project.version}'
